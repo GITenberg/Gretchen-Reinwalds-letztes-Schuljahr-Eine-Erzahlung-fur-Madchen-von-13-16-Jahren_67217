@@ -1,0 +1,34 @@
+_repo: Gretchen-Reinwalds-letztes-Schuljahr-Eine-Erzahlung-fur-Madchen-von-13-16-Jahren_67217
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gubitz, F.
+    gutenberg_agent_id: '54160'
+    url: http://www.gutenberg.org/2009/agents/54160
+creator:
+  author:
+    agent_name: Sapper, Agnes
+    alias: Sapper, Agnes Brater
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '3750'
+    url: http://www.gutenberg.org/2009/agents/3750
+    wikipedia: https://de.wikipedia.org/wiki/Agnes_Sapper
+description: ''
+gutenberg_issued: '2022-01-22'
+identifiers:
+  gutenberg: '67217'
+language: de
+pgterms:marc905: 20191208014405sapper
+pgterms:marc906: '1916'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Verlag von D. Gundert,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Gretchen Reinwalds letztes Schuljahr: Eine Erzählung für Mädchen von 13-16
+  Jahren'
+url: http://www.gutenberg.org/ebooks/67217
