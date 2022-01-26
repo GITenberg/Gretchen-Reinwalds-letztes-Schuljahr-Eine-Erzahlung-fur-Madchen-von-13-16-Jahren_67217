@@ -5,6 +5,9 @@ contributor:
     agent_name: Gubitz, F.
     gutenberg_agent_id: '54160'
     url: http://www.gutenberg.org/2009/agents/54160
+covers:
+- cover_type: archival
+  image_path: 67217-h/images/cover.jpg
 creator:
   author:
     agent_name: Sapper, Agnes
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3750
     wikipedia: https://de.wikipedia.org/wiki/Agnes_Sapper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67217#Gretchen-Reinwalds-letztes-Schuljahr-Eine-Erzahlung-fur-Madchen-von-13-16-Jahren
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67217'
